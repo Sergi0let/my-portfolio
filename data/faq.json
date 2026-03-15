@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "question": "What technologies do you work with?",
+    "answer": "On the front-end I work with React, Next.js, and TypeScript, combined with Tailwind CSS and SCSS for styling, and GSAP for animations. On the back-end I have experience with Node.js and Nest.js, PostgreSQL with Prisma ORM, authentication via Clerk and custom OAuth flows, payment integrations with Stripe, and third-party APIs like Nova Poshta. I also work with CMS platforms — Sanity, Strapi, and WordPress. Additionally I have some Three.js experience for 3D visualizations."
+  },
+  {
+    "id": 2,
+    "question": "What types of projects do you take on?",
+    "answer": "I take on a wide range of front-end projects — landing pages, e-commerce stores, corporate websites, web applications, and portfolio sites. I also handle full-stack projects using Next.js with CMS integration, and can build sites on WordPress from HTML/CSS layouts."
+  },
+  {
+    "id": 3,
+    "question": "How do you ensure code quality?",
+    "answer": "I follow SOLID, KISS, and DRY principles in my daily work. All projects are set up with ESLint and Prettier for consistent formatting. I write clean, well-structured TypeScript with proper typing, use component-based architecture, and optimize for performance — including image optimization, lazy loading, and minimizing unnecessary re-renders."
+  },
+  {
+    "id": 4,
+    "question": "Are your projects SEO-friendly and responsive?",
+    "answer": "Yes, all solutions are modern, adaptive, and SEO-optimized. I use semantic HTML5, proper meta tags, structured data, and follow Core Web Vitals best practices. Every project is fully responsive and tested across different screen sizes and devices."
+  },
+  {
+    "id": 5,
+    "question": "How can I reach you for a project?",
+    "answer": "You can reach me via email at s.vashkevych@gmail.com, message me on Telegram @serg_v6, or connect on LinkedIn. I'm currently open for new freelance work and collaborations."
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Navigation",
+    "links": [
+      { "href": "/", "label": "Home" },
+      { "href": "/design-agency", "label": "Projects" },
+      { "href": "/contact", "label": "Contact" },
+      { "href": "/faq", "label": "FAQ" },
+      { "href": "/resume/svash-resume.pdf", "label": "Download Resume", "download": true }
+    ]
+  },
+  {
+    "title": "Contact",
+    "links": [
+      { "href": "mailto:s.vashkevych@gmail.com", "label": "s.vashkevych@gmail.com" },
+      { "href": "mailto:contact@vashkevych.pro", "label": "contact@vashkevych.pro" },
+      { "href": "https://t.me/serg_v6", "label": "Telegram: @serg_v6" }
+    ]
+  },
+  {
+    "title": "Social",
+    "links": [
+      { "href": "https://github.com/Sergi0let", "label": "GitHub" },
+      { "href": "https://www.linkedin.com/in/s-vashkevych", "label": "LinkedIn" },
+      { "href": "https://t.me/serg_v6", "label": "Telegram" }
+    ]
+  }
+]
