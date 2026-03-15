@@ -47,7 +47,7 @@ export const metadata: Metadata = {
       'Sergij Vashkevych — Full-stack Web Developer. React, Next.js, Node.js, TypeScript. Open for freelance and full-time roles.',
     images: [
       {
-        url: '/og-image.png',
+        url: 'images/og-image.png',
         width: 1200,
         height: 630,
         alt: 'Svash — Full-stack Web Developer',
@@ -58,7 +58,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Svash | Full-stack Web Developer',
     description: 'Sergij Vashkevych — Full-stack Web Developer. React, Next.js, Node.js, TypeScript.',
-    images: ['/og-image.png'],
+    images: ['images/og-image.png'],
     creator: '@svashkevych',
   },
 }
